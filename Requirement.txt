@@ -1,0 +1,5 @@
+# Install modules
+1. Express -server(framework)
+2.mysql -connect to database
+3.body-parser- for covert into json
+4.Nodemon - for node monitor 
